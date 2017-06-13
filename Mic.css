@@ -1,3 +1,4 @@
+body{width:80%;}
 header{
 	display:flex;
 }
@@ -19,4 +20,11 @@ ul li{
 	margin-right:145px;
 	font-size: 30px;
 	align-items:center;
+	display:flex;
+	
 }
+button{background:transparent;}
+#stuff{margin:0 auto;}
+p{border:1px solid black; margin-left:50px;}
+.clear{clear:both;}
+#stuf,#student,#teacher{display:none;}
